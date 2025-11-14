@@ -25,6 +25,6 @@ Data Cleaning & Formatting
 - Fixing inconsistent capitalization  
 - Standardizing date/number formats  
 - Reorganizing messy datasets  
-- Making data ready for analysis or reporting  
+- Making data ready for analysis or reporting
 
 
